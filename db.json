@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "data": "Hello World!"
+    }
+  ],
+  "profile": {
+    "name": "RizkiHabibie"
+  }
+}
